@@ -1,0 +1,10 @@
+HE151017|Tran Minh Hieu|3|Java
+HE151017|Tran Minh Hieu|2|Java
+HE151018|Tran Phuong Linh|1|C/C++
+HE151020|Pham Quang Tu|4|.Net
+HE151019|Nguyen Hong Lam|5|Java
+HE151017|Tran Minh Hieu|2|C/C++
+HE151018|Tran Phuong Linh|3|C/C++
+HE151019|Nguyen Hong Lam|4|.Net
+HE151020|Pham Quang Tu|5|.Net
+HE151017|Tran Minh Hieu|2|.Net
